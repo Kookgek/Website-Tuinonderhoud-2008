@@ -1,0 +1,560 @@
+/* Global Styles */
+
+body {
+	margin:0px;
+	background-color: #888888
+	}
+	
+td {
+	font:11px Arial, Helvetica, sans-serif;
+	color:#666666;
+	}
+	
+devider td {
+	border-bottom: 1px solid #F4FFE4;
+	}	
+	
+	.a {
+	color: #009640;
+	}
+	
+	.a:hover {
+	color: #333333;
+	}
+	
+	.nav a {
+	color: #00cc33;
+	line-height:16px;
+	text-decoration: none;
+	font:18px Arial, Helvetica, sans-serif;
+	color: #00cc33;
+	margin-left:20px;
+	}
+	
+	.nav a:hover {
+	color:#706F6F;
+	}
+	
+	body#home a#homenav,
+body#onder a#ondernav,
+body#aan a#aannav,
+body#con a#connav,
+body#port a#portnav
+ {
+	color:#706F6F;
+	}
+
+	.navText {
+	line-height:16px;
+	text-decoration: none;
+	font:18px Arial, Helvetica, sans-serif;
+	color: #00cc33;
+	margin-left:20px;
+	}
+		
+#logo 	{
+	font:24px Arial, Helvetica, sans-serif;
+	color: #5C743D;
+	letter-spacing:.2em;
+	line-height:30px;
+	}
+
+/* Class Styles */
+	
+.bodyText {
+	color: #706F6F;
+	line-height: 20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: left;
+	}
+	
+	.footertext {
+	color: #ffffff;
+	line-height: 20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: left;
+	text-align: center;
+	}
+	
+	.contacttext {
+	color: #999999;
+	line-height: 20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-align: left;
+	}
+	
+.pageName{
+	font: 18px Arial, Helvetica, sans-serif;
+	color: #009640;
+	line-height: 20px;
+	letter-spacing: 0.21em;
+	}
+	
+.subHeader {
+	font:bold 11px Arial, Helvetica, sans-serif;
+	color: #993300;
+	line-height:22px;
+	letter-spacing:.2em;
+	}
+
+.quote {
+	font: 20px Arial, Helvetica, sans-serif;
+	color: #759DA1;
+	line-height:30px;
+	}
+	
+.smallText {
+	font: 10px Arial, Helvetica, sans-serif;
+	color: #666666;
+	line-height: 22px;
+	}
+	
+	
+	
+#body {
+	margin: 0px;
+	padding: 0px;
+	text-align:center;
+	background-color: #00CED1;
+}
+
+#wrapper {
+	top: 10px;
+	width: 800px;
+	position: relative;
+	margin: 0 auto;
+	text-align:left;
+	overflow: hidden;
+	background-color: #fff;
+	} 
+
+#Header {
+	width:800px;
+	height:150px;
+	z-index:2;
+	top: auto;
+	background-color:#ffffff;
+	visibility: visible;
+}
+
+#Navigation {
+	height: 20px;
+	Padding-top: 81px;
+	margin-left: 300px;
+	background-color: #fff;
+	font: 18px Arial, Helvetica, sans-serif;
+	visibility: visible;
+}
+
+#Content {
+	width:550px;
+	z-index:1;
+	visibility: visible;
+	float: left;
+	top: 100px;
+	background-color: #Fff;
+	text-align: left;
+	height: 500px;
+}
+
+#Content_contact {
+	width:550px;
+	z-index:1;
+	visibility: visible;
+	float: left;
+	top: 100px;
+	background-color: #Fff;
+	text-align: left;
+	height: 530px;
+}
+
+#Content_impressie {
+	width:800px;
+	z-index:1;
+	visibility: visible;
+	float: left;
+	background-color: #fff;
+	text-align: left;
+	}
+
+#Content_project {
+	width:470px;
+	z-index:1;
+	visibility: visible;
+	float: left;
+	top: 100px;
+	background-color: #fff;
+	text-align: left;
+	height:270px;
+}
+    #foto {
+	width:250px;
+	z-index:1;
+	visibility: visible;
+	float: left;
+	background-color: #Fff;
+		
+}
+
+#foto_1 {
+	top:100px;
+	width:250px;
+	z-index:1;
+	visibility: visible;
+	float: left;
+	background-color: #Fff;
+		
+}
+
+#foto_2 {
+	top:100px;
+	width:250px;
+	z-index:1;
+	visibility: visible;
+	float: left;
+	background-color: #Fff;
+		
+}
+
+#foto_3 {
+	width:250px;
+	z-index:1;
+	visibility: visible;
+	float: left;
+	background-color: #Fff;
+		
+}
+
+#foto_4 {
+	width:250px;
+	z-index:1;
+	visibility: visible;
+	float: left;
+	background-color: #Fff;
+		
+}
+
+#foto_5 {
+	width:250px;
+	z-index:1;
+	visibility: visible;
+	float: left;
+	background-color: #Fff;
+		
+}
+
+#foto_impressie {
+	top:100px;
+	width:150px;
+	z-index:1;
+	visibility: visible;
+	float: left;
+	margin-left: 10px;
+	background-color: #fff;
+	padding-top: 243px;
+		
+	
+}
+
+#foto_portfolio {
+	top:100px;
+	width:150px;
+	z-index:1;
+	visibility: visible;
+	float: left;
+	margin-left: 10px;
+	background-color: #fff;
+	padding-top: 243px;
+	
+	
+}
+    #footer {
+	left:91px;
+	top:auto;
+	width:800px;
+	height:100px;
+	z-index:1;
+	color:#888888;
+	background-color: #888888;
+	visibility: visible;
+	float: left;
+}
+
+ 	#contact {
+	width:800px;
+	height:50px;
+	z-index:1;
+	margin-left:50px; 
+	background-color: #ffffff;
+	visibility: visible;
+	float: left;
+}
+
+	#tekst {
+	width:500px;
+	margin-left: 50px;
+	padding-top: 25px;
+	padding-bottom: 10px;
+}
+
+#tekst_linksboven {
+	width:185px;
+	padding-bottom: 10px;
+	margin-left:50px;
+	margin-bottom: 10px;
+}
+
+#tekst_linksonder {
+	width:185px;
+}
+
+	#foto_project_A {
+	width:180px;
+	border: 1px solid #38a34c;
+	}
+
+	#foto_project_B {
+	width:180px;
+	border: 1px solid #38a34c;
+}
+
+	#foto_project_C {
+	width:180px;
+	border: 1px solid #38a34c;
+}
+
+#foto_project_D {
+	width:180px;
+	border: 1px solid #38a34c;
+	}
+	
+	#foto_project_E {
+	width:180px;
+	border: 1px solid #38a34c;
+	}
+
+#foto_project_F {
+	width:180px;
+	border: 1px solid #38a34c;
+	}
+
+	#grotefoto {
+	width:450px;
+	margin-left: 20px;
+	padding-top: 75px;
+	padding-bottom: 10px;
+}
+
+	#fototekst {
+	width:180px;
+	margin-left: 20px;
+	padding-top: 64px;
+	text-align: center;
+}
+
+	#contacttekst {
+	width:180px;
+	margin-left: 20px;
+	padding-top: 77px;
+	text-align: center;
+}
+
+	#fototekst_portfolio {
+	width:180px;
+	margin-left: 53.3px;
+	text-align: center;
+	margin-bottom:53px;
+}
+
+#fototekst_portfolio_A {
+	width:180px;
+	margin-left: 53.3px;
+	text-align: center;
+	margin-bottom:53px;
+	border: 1px solid #38a34c;
+}
+	
+#fototekst_portfolio_B {
+	width:180px;
+	margin-left: 53.3px;
+	text-align: center;
+	margin-bottom:53px;
+	border: 1px solid #38a34c;
+}
+
+#fototekst_portfolio_C {
+	width:180px;
+	margin-left: 53.3px;
+	text-align: center;
+	margin-bottom:53px;
+	border: 1px solid #38a34c;
+}
+
+#fototekst_portfolio_D {
+	width:180px;
+	margin-left: 53.3px;
+	text-align: center;
+	margin-bottom:34px;
+	border: 1px solid #38a34c;
+}
+	
+#fototekst_portfolio_E {
+	width:180px;
+	margin-left: 53.3px;
+	text-align: center;
+	margin-bottom:34px;
+	border: 1px solid #38a34c;
+}
+
+#fototekst_portfolio_F {
+	width:180px;
+	margin-left: 53.3px;
+	text-align: center;
+	margin-bottom:34px;
+	border: 1px solid #38a34c;
+}	
+	#fototekst_impressie {
+	width:150px;
+	margin-left: 10px;
+	padding-top: 150px;
+	text-align: center;
+}
+
+	#thumbs {
+	width:150px;
+	margin-left: 30px;
+	padding-top: 75px;
+	text-align: center;
+}
+
+	#thumbs_impressie {
+	width:150px;
+	margin-left: 30px;
+	padding-top: 65px;
+	text-align: center;
+}
+    #Logo {
+	position: absolute;
+	left: 52px;
+	top: 10px;
+	width: 158px;
+	height: auto;
+	z-index: 1;
+	visibility: visible;
+}
+    #apDiv2 {
+	position:absolute;
+	left:367px;
+	top:425px;
+	width:215px;
+	height:154px;
+	z-index:1;
+}
+
+#apDiv3 {
+	position:absolute;
+	width:440px;
+	height:119px;
+	z-index:2;
+	left: 150px;
+	top: 264px;
+}
+#apDiv4 {	position:absolute;
+	width:439px;
+	height:113px;
+	z-index:2;
+	left: 151px;
+	top: 271px;
+}
+#apDiv5 {	position:absolute;
+	width:439px;
+	height:113px;
+	z-index:2;
+	left: 151px;
+	top: 271px;
+}
+#apDiv6 {
+	position:absolute;
+	width:445px;
+	height:333px;
+	z-index:2;
+	left: 146px;
+	top: 336px;
+}
+    .stijl3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #127c2d;
+}
+    
+    .stijl5 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+    .stijl6 {font-size: 12px}
+	
+	label {
+	float: left;
+	width: 140px;
+	text-align: left;
+	padding-top: 5px;
+	font-size: 12px;
+}
+
+	select {
+	padding: 3px;
+	margin: 5px;
+	border: 1px solid #38a34c;
+	font: 12px Verdana, Helvetica, sans-serif;
+	color: #706F6F;
+	background: #fff;
+	}
+	
+	input, textarea {
+	padding: 3px;
+	margin: 5px;
+	border: 1px solid #38a34c;
+	font: 12px Verdana, Helvetica, sans-serif;
+	color: #706F6F;
+	background: #fff;
+}
+	input.fout, textarea.fout {
+	border: 1px solid #FF0000;
+}
+
+	label.fout {
+	color: #FF0000;
+}
+
+	div#errors {
+	color: #FF0000;
+}
+
+div#slideshow {
+	width: 700px; height: 200px;
+	margin-left:50px;
+	border: 1px solid #38a34c;
+	/*margin-right:50px;
+	overflow: scroll; /* Allows the slides to be viewed using scrollbar if Javascript isn't available */ 
+	position: relative; z-index: 5;
+}
+
+div#slideshow ul#slides {
+	list-style: none;
+}
+
+div#slideshow ul#slides li {
+	margin: -20px 0 0px 0;
+}
+
+div.c3 {text-align: center}
+img.c2 {margin-bottom: 20px; border: 1px solid #38a34c;}
+
+p.c1 {
+	text-align: left;
+	color: #009640;
+}
