@@ -5,8 +5,8 @@ I made this website for my dad back in 2008 when he just started a second career
 I have had it hosted and maintained it between 2008-2016
 
 The website itself was orginally made in Adobe Dreamweaver.
-I've adjusted it along the way With a slidebox and a PhP contactpage. Client and company gets a (confirmation)mail and the page has error/spamhandling .
+I've adjusted it along the way With a slidebox and a PHP contactpage. Client and company gets a (confirmation)mail and the page has error/spamhandling .
 
-HTML 4/ CSS/ Slidebox/ JS/ PhP
+HTML 4/ CSS/ Slidebox/ JS/ PHP
 
 
