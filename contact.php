@@ -53,14 +53,14 @@ if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
 <div id="foto">
 <div id="fototekst"><a href="images/tuin_20.jpg" title="Genieten" rel="lightbox"><img src="images/tuin_20klein.jpg" border="0" class="c1" alt="Genieten"></a>
 <p class="bodyText stijl6 c2"><strong>Gremmé Tuinonderhoud</strong><br>
-Tsjibbe Geertswei 21<br>
-8915 HJ Leeuwarden<br>
-Tel: 06-42791133<br>
-Email: <a href="mailto:info@gremme-tuinonderhoud.nl">info@gremme-tuinonderhoud.nl</a></p>
+Adres<br>
+Leeuwarden<br>
+Tel: 06-12345678<br>
+Email: <a href="mailto:mail">mail adres</a></p>
 </div>
 </div>
 <div class="stijl3 stijl4 c3" id="devider2"></div>
-<div class="stijl1 stijl5 c3" id="footer">Gremmé Tuinonderhoud © 2008-2012 KvK Leeuwarden: 01108243</div>
+<div class="stijl1 stijl5 c3" id="footer">Gremmé Tuinonderhoud © 2008-2012 KvK Leeuwarden: 012345678</div>
 <div id="apDiv1"><img src="images/Logo.png" width="126" height="126" alt="logo Gremmé Tuindonderhoud"></div>
 </div>
 </body>
