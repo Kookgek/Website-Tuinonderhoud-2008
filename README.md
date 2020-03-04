@@ -9,6 +9,6 @@ I've adjusted it along the way with lightbox (image slideshow) and a PHP contact
 
 HTML 4/ CSS/ Lightbox/ JS/ PHP
 
-![Index page ](iamges/website.jpg)
+![Index page ](images/website.jpg)
 
 
